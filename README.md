@@ -1,5 +1,5 @@
 # Next-Generation-Character-Rendering
-My implementation for character rendering in unity URP, including eyes、face and hair.
+My implementation for character rendering in unity URP, including eyes、face and hair.I will not upload any texture or obj resources, only describe the algrithm I used.
 
 For face I will try to render with 4s and Pre-integration algrithmn.
 
